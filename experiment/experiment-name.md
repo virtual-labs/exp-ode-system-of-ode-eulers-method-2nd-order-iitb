@@ -1,1 +1,1 @@
-## Experiment name
+## ODE: Euler's 2<sup>nd</sup> method for 2<sup>nd</sup> order equation (System of ODE)
