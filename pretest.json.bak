@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Euler's method 2nd order is used to solve _______________________",
+        "qid": 1,
+        "option_a": "initial value disfferential equation",
+        "option_b": "boundry value disfferential equation",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "a"
+    },
+    {
+        "question": "The formulation used in Euler's method 2nd order is",
+        "qid": 2,
+        "option_a": "<span style='display:inline-block'>$$ y_2 = y_1-hf(x_1, y_1, z_1) \\ \\ \\ \\ \\ z_2 = z_1-hg(x_1, y_1, z_1) $$</span>",
+        "option_b": "<span style='display:inline-block'>$$ y_2 = y_1+hf(x_1, y_1, z_1) \\ \\ \\ \\ \\ z_2 = z_1+hg(x_1, y_1, z_1) $$</span>",
+        "option_c": "<span style='display:inline-block'>$$ y_2 = hf(x_1, y_1, z_1) \\ \\ \\ \\ \\ z_2 = hg(x_1, y_1, z_1) $$</span>",
+        "option_d": "<span style='display:inline-block'>$$ y_2 = f(x_1, y_1, z_1) \\ \\ \\ \\ \\ z_2 = g(x_1, y_1, z_1) $$</span>",
+        "correct_option": "b"
+    }
+]

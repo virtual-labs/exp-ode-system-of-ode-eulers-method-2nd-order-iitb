@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ x_0 = 0,\\ \\ y_0 = 1 $$ $$ \\frac{dy}{dx} = f(x,y) = x^2+y $$ $$ h = 0.02 $$ $$ Find\\ y(0.02)\\ \\ \\ upto\\ 3\\ decimal\\ values $$",
+      "qid": 1,
+      "option_a": "1.020",
+      "option_b": "1.220",
+      "option_c": "2.312",
+      "option_d": "0.134",
+      "correct_option": "a"
+   },
+   {
+      "question": "$$ x_0 = 0,\\ \\ y_0 = 1 $$ $$ \\frac{dy}{dx} = f(x,y) = x^2+y $$ $$ h = 0.02 $$ $$ Find\\ y(0.02)\\ \\ \\ upto\\ 4\\ decimal\\ values $$",
+      "qid": 2,
+      "option_a": "1.1212",
+      "option_b": "2.2543",
+      "option_c": "1.0202",
+      "option_d": "2.7023",
+      "correct_option": "c"
+   }
+]
